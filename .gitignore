@@ -1,0 +1,13 @@
+# OS-specific junk
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Node modules (if used in future)
+node_modules/
+
+# Environment config (if using for API keys)
+.env
+.env.*
